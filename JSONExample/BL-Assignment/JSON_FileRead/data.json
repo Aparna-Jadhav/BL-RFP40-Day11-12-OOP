@@ -1,0 +1,26 @@
+
+{
+"inventoryData" : 
+[
+    {
+            "Name": "Rice",
+            "Weight": "5",
+            "Price": "200Rs"
+     },
+    
+    {
+      		"Name": "Pulses",
+            "Weight": "3",
+            "Price": "120Rs"
+        
+    },
+    
+    {
+            "Name": "Wheats",
+            "Weight": "4",
+            "Price": "160Rs"
+        
+    }
+            
+]
+}
